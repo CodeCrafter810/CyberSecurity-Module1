@@ -8,7 +8,7 @@ This repository contains the Module 1 assignment covering key cybersecurity fund
 - `Cybersecurity Presentation.pptx` - PDF version of the report.
 
 ## Author & Acknowledgments
-**Prepared by:** [Your Full Name]  
+**Prepared by:** [Mohmmad Fayaz]  
 *Student, Cyber Security Foundation Course*
 
 ---
